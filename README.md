@@ -5,13 +5,7 @@
 
   <h2 align="center">CSS Project</h2>
 
-  This website is static and simple project , <br />developed using HTML and CSS.
 
-  <a href="https://avantika-rawat.github.io/Photography-Page/"><strong>➥ Live Demo</strong></a>
-
-</div>
-
-<br />
 
 ### Demo Screeshots
 
