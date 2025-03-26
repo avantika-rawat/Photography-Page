@@ -1,9 +1,4 @@
 <div align="center">
-  
-
-  
-
-  <h2 align="center">CSS Project</h2>
 
 
 
